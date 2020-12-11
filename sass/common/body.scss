@@ -1,0 +1,26 @@
+body {
+  background-color: $color-background;
+  color: $color-text;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+.container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 2rem auto;
+}
+.content {
+  width: 100%;
+  margin-top: 15%;
+  margin-bottom: 5rem;
+  h1 {
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 800;
+    font-family: Paytone One, Helvetica, sans-serif;
+    letter-spacing: 8px;
+  }
+  .sub_title {
+    text-align: center;
+    font-size: 1.2rem;
+  }
+}

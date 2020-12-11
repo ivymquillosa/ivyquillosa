@@ -1,0 +1,8 @@
+[{ "hex_name":"Welcome", "src_path":"/imgs/icons/welcome.png" },
+{ "hex_name":"About", "src_path":"/imgs/icons/about.png" },
+{ "hex_name":"Service", "src_path":"/imgs/icons/service.png" },
+{ "hex_name":"Resume", "src_path":"/imgs/icons/resume.png" },
+{ "hex_name":"Works", "src_path":"/imgs/icons/works.png" },
+{ "hex_name":"Testimonials", "src_path":"/imgs/icons/testimonials.png" },
+{ "hex_name":"Contact", "src_path":"/imgs/icons/contact.png" }
+]

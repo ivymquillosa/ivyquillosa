@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    .container
+        .content
+            h1 IT'S PHANTOM
+            .sub_title A product designer from England, who focuses on interactive design & A freelance designer focusing on typography & clean interfaces. Also works in Google.
+        .row
+            for d in data
+                .hex
+                    .hex.hex--inner
+                        .hex.hex--base
+                            img.icon(src=`${d.src_path}`, alt=`${d.hex_name} icon`) 
+                            .hex_text=d.hex_name
+
